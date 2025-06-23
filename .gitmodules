@@ -1,0 +1,6 @@
+[submodule ".github/prompts"]
+	path = .github/prompts
+	url = https://github.com/i7s7-ymp/copilot-prompts.git
+[submodule ".github/instructions"]
+	path = .github/instructions
+	url = https://github.com/i7s7-ymp/copilot-instructions.git
